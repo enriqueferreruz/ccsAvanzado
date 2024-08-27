@@ -1,0 +1,41 @@
+body {
+    background-color: darkcyan;
+}
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+    font-family: "New Amsterdam", sans-serif;
+    margin: 0, 135px, 0, 135px;
+    border: thick double;
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+}
+
+img {
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+}
+p {
+    font-size: 30px;
+    justify-content: 
+}
+li {
+    font-size: 25px;
+    justify-content;
+}
+.navbar {
+    position: sticky;
+}
+
+#sitios {
+    background-color: #1E2A5E;
+    text-align: justify;
+    color: aliceblue;
+}
+
+#jaguar {
+    text-align: center;
+}
